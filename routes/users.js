@@ -17,6 +17,11 @@ const users = [
       name: 'Sidorov Ivan Alexandrovich',
       email: 'sidorov@neoflex.ru',
    },
+   {
+      id: 4,
+      name: 'Jane Jade Jaden',
+      email: 'jane@neoflex.ru',
+   },
 ];
 
 // router.get('/', (req, res) => {
